@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+#head-shopping{
+  
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+#carousel{
+  margin: 36px 0px;
+  padding: 12px 0px;
+}
+#home{
+  /* background: #35374B; */
+  margin: 36px 0px;
+  padding: 12px 0px;
+  
+}
+#homecards{
+  margin: 36px 0px;
+  padding: 12px 0px;
+}
+#homecards{
+  padding:36px 0px;
+}
+.homeHead{
+    font-family: "Varela Round", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    display: flex;
+    justify-content: center; 
+    flex-direction: column;
+}
+
+.underline{
+  height: 2px;
+  background: #2e83e4;
+  width: 50px;
+  margin: auto;
+}
+.home-info{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+li Link{
+  font-family: "Varela Round", sans-serif;
+  margin: 2px;
+  color: white;
+ }
+
+.product-container{
+  margin: auto;
+}
+.filter-box{
+  display: flex;
+  background: #d3d1d1;
+  margin: 20px;
+  height: 50px;
+ border-radius: 10px;
+  align-items: center;
+  justify-content: space-around;
+}
